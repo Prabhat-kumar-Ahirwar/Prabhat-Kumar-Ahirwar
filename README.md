@@ -95,11 +95,4 @@ I am a Computer Science Engineering student passionate about building scalable b
 </a>
 </p>
 
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ⭐ From [Prabhat-kumar-Ahirwar](https://github.com/Prabhat-kumar-Ahirwar)
