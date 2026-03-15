@@ -74,7 +74,7 @@ I am a Computer Science Engineering student passionate about building scalable b
 ## 🌐 Portfolio & Resume
 
 - 🌍 **Portfolio:**  
-  https://prabhatportfolioka.vercel.app/
+  https://myportfolioprabhat.vercel.app/
 
 - 📄 **Resume:**  
   https://github.com/Prabhat-kumar-Ahirwar/MyResume/blob/main/Prabhat%20Resume%20Intern.pdf
