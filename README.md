@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=26&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;System+Design+%7C+DSA+Focused;Building+Scalable+Production+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=26&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;System+Design+%7C+DSA+Focused;Building+Scalable+Production+Systems" /> 
 </p>
 
 <p align="center">
@@ -93,6 +93,11 @@ I am a Computer Science Engineering student passionate about building scalable b
 <a href="https://github.com/Prabhat-kumar-Ahirwar">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prabhat-kumar-Ahirwar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhat-kumar-Ahirwar&theme=tokyonight" />
 </p>
 
 ⭐ From [Prabhat-kumar-Ahirwar](https://github.com/Prabhat-kumar-Ahirwar)
