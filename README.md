@@ -85,14 +85,18 @@ I am a Computer Science Engineering student passionate about building scalable b
 ---
 
 ## 🤝 Connect With Me
-
 <p align="center">
-<a href="https://linkedin.com/in/prabhat-ahirwar-24604033a">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://github.com/Prabhat-kumar-Ahirwar">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+  <a href="https://linkedin.com/in/prabhat-ahirwar-24604033a">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://github.com/Prabhat-kumar-Ahirwar">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://myportfolioprabhat.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
 </p>
 
 <p align="center">
