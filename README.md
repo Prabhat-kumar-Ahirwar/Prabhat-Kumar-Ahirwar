@@ -1,108 +1,147 @@
-<!-- ======================= HERO SECTION ======================= -->
+<!-- ========================================================= -->
+<!--            PRABHAT KUMAR AHIRWAR - PREMIUM README         -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,50:203a43,100:2c5364&text=Prabhat%20Kumar%20Ahirwar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20in%20Progress%20🚀&descAlignY=58&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,50:111827,100:7C4DFF&text=Prabhat%20Kumar%20Ahirwar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20|%20Spring%20Boot%20Engineer%20🚀&descAlignY=57&descSize=18&descColor=A8D8FF" />
 </p>
 
+<!-- ========================================================= -->
+<!--                    ANIMATED TYPING                        -->
+<!-- ========================================================= -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=26&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;System+Design+%7C+DSA+Focused;Building+Scalable+Production+Systems" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=Java+Backend+Developer+☕;Spring+Boot+%7C+REST+API+Developer+🚀;DSA+%7C+System+Design+%7C+Problem+Solving+🧠;Building+Scalable+Backend+Systems+🏗️;Open+to+Internships+and+Backend+Roles+🎯" />
 </p>
+
+<!-- ========================================================= -->
+<!--                         BADGES                            -->
+<!-- ========================================================= -->
 
 <p align="center">
   <a href="mailto:prabhatmmg007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://linkedin.com/in/prabhat-ahirwar-24604033a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://prabhatportfolioka.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel">
-  </a>
-</p>
-
----
-
-## 🚀 About Me
-
-I am a Computer Science Engineering student passionate about building scalable backend systems and production-ready applications.
-
-- 🔭 Currently building **StudyHub – Study Material Sharing System**
-- 🌱 Learning **Spring Security, JWT Authentication & Microservices**
-- 🧠 Practicing **DSA daily**
-- 🏗 Exploring **System Design fundamentals**
-- 🎯 Goal: Become a highly efficient Backend Engineer
-- ⚡ Fun fact: *Consistency in coding beats talent.*
-
----
-
-## 🛠 Tech Stack
-
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
-
-### 💻 Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb" />
-</p>
-
-### ⚙️ Tools & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,maven" />
-</p>
-
-### 🧩 Core Concepts
-- Data Structures & Algorithms  
-- OOP & Design Principles  
-- REST API Design  
-- Database Design  
-- Authentication & Authorization  
-
-</td>
-
-<td width="35%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding animation"/>
-
-</td>
-</tr>
-</table>
-
----
-
-
-## 🌐 Portfolio & Resume
-
-- 🌍 **Portfolio:**  
-  https://myportfolioprabhat.vercel.app/
-
-- 📄 **Resume:**  
-  https://github.com/Prabhat-kumar-Ahirwar/MyResume/blob/main/Prabhat%20Resume%20Intern.pdf
-
-- 📫 **Email:**  
-  prabhatmmg007@gmail.com
-
----
-
-## 🤝 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/prabhat-ahirwar-24604033a">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://github.com/Prabhat-kumar-Ahirwar">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://myportfolioprabhat.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=vercel" />
+  <a href="https://prabhatportfolioka.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
+
+<!-- ========================================================= -->
+<!--                    PROFILE VIEWS                          -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabhat-kumar-Ahirwar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhat-kumar-Ahirwar&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=Prabhat-kumar-Ahirwar&label=Profile+Views&color=7C4DFF&style=flat-square" />
+  
+  <img src="https://img.shields.io/github/followers/Prabhat-kumar-Ahirwar?label=Followers&style=flat-square&color=00C896" />
 </p>
 
-⭐ From  
-[Prabhat-kumar-Ahirwar](https://github.com/Prabhat-kumar-Ahirwar)
+---
+
+# 💫 About Me
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🚀 Backend-focused developer passionate about building scalable APIs, efficient database architectures, and production-ready systems using Java & Spring Boot.
+
+💡 I enjoy solving complex backend problems and continuously improving my understanding of:
+- scalable system architecture
+- authentication systems
+- API optimization
+- database design
+- backend performance
+
+---
+
+### ⚡ Current Focus
+
+- 🔭 Building **StudyHub** — Study Material Sharing Platform
+- 🌱 Learning **Spring Security · JWT · Microservices**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🏗 Exploring **System Design**
+- 🎯 Goal: Become a highly efficient **Backend Engineer**
+
+---
+
+# 🚀 Featured Projects
+
+## 📚 StudyHub
+> Study Material Sharing Platform for students
+
+### ⚙️ Tech Stack
+`Java` `Spring Boot` `MySQL` `REST APIs`
+
+### ✨ Features
+- Secure authentication system
+- Upload & download study materials
+- RESTful API architecture
+- Optimized relational database schema
+- Scalable backend structure
+
+---
+
+## 🗺 Smart Navigation System
+> Intelligent route optimization and navigation platform
+
+### ⚙️ Tech Stack
+`Spring Boot` `React` `PostgreSQL`
+
+### ✨ Features
+- Source-destination optimization
+- Email integration
+- Interactive map integration
+- Real-time route handling
+
+---
+
+# 🛠 Tech Stack
+
+## ☕ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+</p>
+
+---
+
+## ⚙️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=maven" />
+  <img src="https://skillicons.dev/icons?i=idea" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+</p>
+
+---
+
+# 🧠 Core CS Skills
+
+```yaml
+✔ Data Structures & Algorithms
+✔ Object-Oriented Programming
+✔ SOLID Principles
+✔ REST API Design
+✔ Spring Security & JWT
+✔ Relational Database Design
+✔ NoSQL Database Design
+✔ Authentication & Authorization
+✔ Backend System Architecture
+✔ System Design Fundamentals
