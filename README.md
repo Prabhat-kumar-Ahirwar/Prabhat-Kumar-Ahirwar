@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,50:111827,100:7C4DFF&text=Prabhat%20Kumar%20Ahirwar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,50:111827,100:7C4DFF&text=Prabhat%20Kumar%20Ahirwar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
 </p>
 
 <!-- ========================================================= -->
@@ -11,7 +11,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=Java+Backend+Developer+☕;Spring+Boot+Enthusiast;API+Designer+|+Problem+Solver" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=Java+Backend+Developer+☕;Spring+Boot+Enthusiast;Scalable+System+Designer" alt="Typing animation" />
 </p>
 
 <!-- ========================================================= -->
@@ -127,7 +127,7 @@
   <img src="https://skillicons.dev/icons?i=maven" alt="Maven" />
   <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=ai" alt="AI" />
+  <img src="https://skillicons.dev/icons?i=ai" alt="AI" width="47" height="47" />
 </p>
 
 ---
