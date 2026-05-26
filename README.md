@@ -3,19 +3,17 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,50:111827,100:7C4DFF&text=Prabhat%20Kumar%20Ahirwar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Banner"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0D1117,50:111827,100:7C4DFF&text=Prabhat%20Kumar%20Ahirwar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20Engineer&descAlignY=55&descSize=22"
+    alt="Header Banner"
+  />
 </p>
 
-<!-- ========================================================= -->
-<!--                    ANIMATED TYPING                        -->
-<!-- ========================================================= -->
-
-<h3 align="center">
-  🚀 Java Backend Developer | Spring Boot | REST APIs | System Design Enthusiast
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=900&lines=DSA+Focused+Developer;Building+Scalable+Backend+Systems;Learning+Spring+Security+%26+Microservices;Consistency+Beats+Talent" alt="Typing Animation"/>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=1000&lines=Building+Scalable+Backend+Applications;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Practicing+DSA+and+System+Design;Learning+Cloud+%26+Backend+Architecture;Consistency+%2B+Discipline+%3D+Growth"
+    alt="Typing Animation"
+  />
 </p>
 
 <!-- ========================================================= -->
