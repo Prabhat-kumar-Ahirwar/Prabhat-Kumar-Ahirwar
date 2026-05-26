@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,50:111827,100:7C4DFF&text=Prabhat%20Kumar%20Ahirwar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"[...]
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,50:111827,100:7C4DFF&text=Prabhat%20Kumar%20Ahirwar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
 </p>
 
 <!-- ========================================================= -->
@@ -11,7 +11,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=Java+Backend+Developer+☕;Spring+Boot+Enthusiast;Scalable+System+Designer" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=750&lines=Backend+Engineer+%7C+Spring+Boot+Expert+%E2%98%95;RESTful+APIs+%7C+Database+Design+%7C+System+Architecture;DSA+Enthusiast+%7C+SOLID+Principles+%7C+Clean+Code;Building+Scalable%2C+Production-Ready+Systems+%F0%9F%9A%80;Let%27s+Connect+%26+Collaborate+on+Amazing+Projects+%F0%9F%A4%9D" alt="Typing Animation" />
 </p>
 
 <!-- ========================================================= -->
