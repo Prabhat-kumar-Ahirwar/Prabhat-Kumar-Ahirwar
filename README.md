@@ -3,15 +3,19 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,50:111827,100:7C4DFF&text=Prabhat%20Kumar%20Ahirwar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,50:111827,100:7C4DFF&text=Prabhat%20Kumar%20Ahirwar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Banner"/>
 </p>
 
 <!-- ========================================================= -->
 <!--                    ANIMATED TYPING                        -->
 <!-- ========================================================= -->
 
+<h3 align="center">
+  🚀 Java Backend Developer | Spring Boot | REST APIs | System Design Enthusiast
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=750&lines=Backend+Engineer+%7C+Spring+Boot+Expert+%E2%98%95;RESTful+APIs+%7C+Database+Design+%7C+System+Architecture;DSA+Enthusiast+%7C+SOLID+Principles+%7C+Clean+Code;Building+Scalable%2C+Production-Ready+Systems+%F0%9F%9A%80;Let%27s+Connect+%26+Collaborate+on+Amazing+Projects+%F0%9F%A4%9D" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=900&lines=DSA+Focused+Developer;Building+Scalable+Backend+Systems;Learning+Spring+Security+%26+Microservices;Consistency+Beats+Talent" alt="Typing Animation"/>
 </p>
 
 <!-- ========================================================= -->
@@ -20,19 +24,19 @@
 
 <p align="center">
   <a href="mailto:prabhatmmg007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
   <a href="https://www.linkedin.com/in/prabhat-ahirwar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <a href="https://github.com/Prabhat-kumar-Ahirwar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
   <a href="https://myportfolioprabhat.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -41,9 +45,9 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prabhat-kumar-Ahirwar&label=Profile+Views&color=7C4DFF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Prabhat-kumar-Ahirwar&label=Profile+Views&color=7C4DFF&style=flat-square" alt="Profile Views"/>
   
-  <img src="https://img.shields.io/github/followers/Prabhat-kumar-Ahirwar?label=Followers&style=flat-square&color=00C896" />
+  <img src="https://img.shields.io/github/followers/Prabhat-kumar-Ahirwar?label=Followers&style=flat-square&color=00C896" alt="Followers"/>
 </p>
 
 ---
