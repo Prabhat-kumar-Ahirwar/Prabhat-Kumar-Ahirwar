@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://linkedin.com/in/prabhat-ahirwar-24604033a">
+  <a href="https://www.linkedin.com/in/prabhat-ahirwar/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://prabhatportfolioka.vercel.app/">
+  <a href="https://myportfolioprabhat.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
