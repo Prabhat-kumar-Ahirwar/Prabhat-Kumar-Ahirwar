@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,50:111827,100:7C4DFF&text=Prabhat%20Kumar%20Ahirwar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,50:111827,100:7C4DFF&text=Prabhat%20Kumar%20Ahirwar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
 </p>
 
 <!-- ========================================================= -->
@@ -11,7 +11,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=Java+Backend+Developer+☕;Spring+Boot+Specialist" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=Java+Backend+Developer+☕;Spring+Boot+Enthusiast;System+Design+Explorer;Coding+Passionate">
 </p>
 
 <!-- ========================================================= -->
@@ -114,7 +114,6 @@
   <img src="https://skillicons.dev/icons?i=spring" />
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=postgresql" />
 </p>
 
 ---
@@ -128,7 +127,7 @@
   <img src="https://skillicons.dev/icons?i=maven" />
   <img src="https://skillicons.dev/icons?i=idea" />
   <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anthropic/anthropic-original.svg" width="52" height="52" />
 </p>
 
 ---
