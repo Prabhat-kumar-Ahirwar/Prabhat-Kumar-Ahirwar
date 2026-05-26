@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,50:111827,100:7C4DFF&text=Prabhat%20Kumar%20Ahirwar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20|%20Spring%20Boot%20Engineer%20🚀&descAlignY=57&descSize=18&descColor=A8D8FF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,50:111827,100:7C4DFF&text=Prabhat%20Kumar%20Ahirwar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <!-- ========================================================= -->
@@ -11,7 +11,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=Java+Backend+Developer+☕;Spring+Boot+%7C+REST+API+Developer+🚀;DSA+%7C+System+Design+%7C+Problem+Solving+🧠;Building+Scalable+Backend+Systems+🏗️;Open+to+Internships+and+Backend+Roles+🎯" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=Java+Backend+Developer+☕;Spring+Boot+Specialist" />
 </p>
 
 <!-- ========================================================= -->
@@ -90,17 +90,18 @@
 
 ---
 
-## 🗺 Smart Navigation System
-> Intelligent route optimization and navigation platform
+## 🐛 Bug Assignment System
+> Automatic bug assignment and tracking system for development teams
 
 ### ⚙️ Tech Stack
-`Spring Boot` `React` `PostgreSQL`
+`Spring Boot` `MySQL` `REST APIs`
 
 ### ✨ Features
-- Source-destination optimization
-- Email integration
-- Interactive map integration
-- Real-time route handling
+- Automatic bug assignment based on developer expertise
+- Real-time bug tracking and status updates
+- Priority-based bug management
+- Developer workload balancing
+- Comprehensive reporting and analytics
 
 ---
 
@@ -145,3 +146,4 @@
 ✔ Authentication & Authorization
 ✔ Backend System Architecture
 ✔ System Design Fundamentals
+```
